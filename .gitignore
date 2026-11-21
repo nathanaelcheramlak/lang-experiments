@@ -1,0 +1,7 @@
+/.venv/
+/upstream-sagalee/
+/runs/
+/downloads/
+/data/
+/models/
+__pycache__/
